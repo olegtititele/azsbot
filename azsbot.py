@@ -11,7 +11,7 @@ import time
 
 
 
-apihelper.proxy = {'https':'socks5h://' + md.PROXY}
+# apihelper.proxy = {'https':'socks5h://' + md.PROXY}
 
 
 bot = telebot.TeleBot(md.TOKEN)
